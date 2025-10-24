@@ -21,13 +21,7 @@ const firebaseConfig = {
 const VEHICLES = ['69408','69409','69410','69411','69412','69413','69414','69415','69416','69417','69418','69419'];
 const OPERATORS = ['Wei Hongpeng','Chen Yanshuo','Jonathan Soo','Gunasekaran Yoganth'];
 
-/* Optional: bootstrap admin by email list.
-   During dev, set one email (your primary admin email) to automatically become admin at first login.
-   For production, set roles via the Realtime Database console or using Admin SDK / Cloud Function.
-*/
-const adminEmailList = [
-  /* e.g. "you@company.com" */
-];
+const adminEmailList = ['hongpeng@hp.com','yanshuo@hp.com','yoganth@hp.com','jonathan@hp.com'];
 
 /* Initialize firebase app (compat) */
 if (!window.firebase.apps.length) {
@@ -760,3 +754,4 @@ function AdminRoleForm({ setRoleForUser }) {
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(React.createElement(App));
+
