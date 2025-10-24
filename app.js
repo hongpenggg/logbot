@@ -7,9 +7,6 @@
 */
 
 /* ========== Configuration ========== */
-/* Use your existing config - I left your existing firebase keys (from your uploaded file).
-   You should rotate these keys if they are sensitive; firebase client SDK config is not secret,
-   but if this is a real production project, consider server-side validations. */
 const firebaseConfig = {
   apiKey: "AIzaSyDn_9J6yhfiGdugCB8EUwNi14QSnXq3Q5M",
   authDomain: "logbot-f502d.firebaseapp.com",
@@ -760,5 +757,6 @@ function AdminRoleForm({ setRoleForUser }) {
     </div>
   );
 }
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(React.createElement(App));
