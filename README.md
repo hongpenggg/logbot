@@ -1,0 +1,2 @@
+# logbot
+to manage logbooks
