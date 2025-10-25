@@ -6,7 +6,7 @@
 <break></break>
 
 <p align="center">
-  <a href="github.com/hongpenggg"><img alt="Static Badge" src="https://img.shields.io/badge/Contributors-Hongpeng?link=github.com%2Fhongpenggg"></a>
+  <a href="https://github.com/hongpenggg"><img alt="Static Badge" src="https://img.shields.io/badge/Contributors-Hongpeng?link=https%3A%2F%2Fgithub.com%2Fhongpenggg"></a>
   <a href="https://github.com/hongpenggg/logbot/blob/main/documentation/docs.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/Documentation-Docs?link=https%3A%2F%2Fgithub.com%2Fhongpenggg%2Flogbot%2Fblob%2Fmain%2Fdocumentation%2Fdocs.pdf"></a>
 </p>
 <break></break>
