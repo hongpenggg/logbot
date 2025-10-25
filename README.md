@@ -11,5 +11,5 @@
 </p>
 <break></break>
 
-<h5 align="center">For queries, contact <a href="beacons.ai/hongpeng" target="_blank">me</a>.</h5>
+<h5 align="center">For queries, contact <a href="https://beacons.ai/hongpeng" target="_blank">me</a>.</h5>
 <h5 align="center">Thanks for visiting!</h5>
